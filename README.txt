@@ -1,4 +1,4 @@
-Comandos necessários a ser utlizado no terminal do linux(distribuição: ubunto) para compilar o jogo
+Comandos necessários a ser utlizado no terminal do linux(distribuição: ubunt) para compilar o jogo
 
 sudo apt-get install make
 sudo apt-get install libgl1-mesa-dev
